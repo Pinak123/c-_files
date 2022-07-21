@@ -33,6 +33,11 @@ int main() {
         n1++;
         /* code */
     }
+    void pinak(){
+
+    cout<<"this is a void pinak"<<endl;
+
+    }
 
 
 
