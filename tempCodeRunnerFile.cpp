@@ -1,2 +1,2 @@
-    // C=complex(A,B);
-    // C.output();
+ 1
+    // cout << dinner<< endl; //returns 2
