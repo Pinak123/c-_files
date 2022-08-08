@@ -10,6 +10,8 @@ void solution(double a, double b, double c)
     if (deter < 0)
     {
         cout << " We have no teal solution" << endl;
+    }else if (a==0){
+        cout << "This is not a quadratic equation"<<endl;
     }
     else
     {
